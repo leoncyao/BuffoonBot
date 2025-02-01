@@ -11,12 +11,12 @@ uv sync
 
 Windows:
 ```bash
-activate .venv/bin/activate
+.venv\scripts\activate
 ```
 
 Mac:
 ```bash
-activate .venv/bin/activate
+source .venv/bin/activate
 ```
 
 ## Add dependencies
