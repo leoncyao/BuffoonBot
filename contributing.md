@@ -11,7 +11,7 @@ uv sync
 
 Windows:
 ```bash
-activate .venv/scripts/activate
+activate .venv/bin/activate
 ```
 
 Mac:
