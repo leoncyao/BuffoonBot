@@ -8,8 +8,16 @@ pip install uv
 uv sync
 ```
 3. Activate the venv
+
+Windows:
 ```bash
 activate .venv/scripts/activate
 ```
+
+Mac:
+```bash
+activate .venv/bin/activate
+```
+
 ## Add dependencies
 Run `uv add <dependency>`
