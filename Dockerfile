@@ -48,4 +48,4 @@ USER appuser
 # Limit to 5MB of memory
 RUN ulimit -v 5000
 # Run the application.
-CMD uv run hello.py
+CMD uv run buffoon.py
