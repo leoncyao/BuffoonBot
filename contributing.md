@@ -21,3 +21,8 @@ source .venv/bin/activate
 
 ## Add dependencies
 Run `uv add <dependency>`
+
+Test run:
+```bash
+docker run --cpus 1 -it --rm $(docker build -q .)
+```
